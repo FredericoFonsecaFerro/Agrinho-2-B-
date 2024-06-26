@@ -1,0 +1,46 @@
+* {
+    margin: auto;
+    padding: 0px;
+    font-family: "Normal", cursive;
+    
+}
+
+.cabeçalho{
+    background-color: rgb(255, 255, 255);
+    color: rgb(19, 163, 31);
+    text-align: center;
+    padding: 30px;
+    font-size:x-large
+   
+}
+
+.mensagem{
+    background-color: rgb(243, 254, 250);
+    display: flex;
+    padding: 30px;
+}
+
+    .mensagem-texto{
+        color: rgb(5, 193, 36);
+        text-align: justify;
+        font-size:xx-large;
+}
+
+.mensagem-imagem{
+    width: 10%;
+}
+
+.rodape{
+    background-color: black;
+    color: rgb(6, 136, 17);
+    padding: 50px;
+    display: flex;
+}
+
+.rodapé-link{
+    display:inline-block;
+}
+
+.rodape-imagem{
+    width: 10%;
+}
