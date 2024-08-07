@@ -19,6 +19,9 @@ body {
     margin: 0;
     padding: 0;
 }
+.cabeçalho {
+    background-color: #14872d;
+}
 
 .principal {
     background-image: url("Background.png");
@@ -36,6 +39,7 @@ body {
 
 .container__botao {
     background-color: var(--botao-azul);
+    font-size: 18px;
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
@@ -50,7 +54,7 @@ body {
 }
 
 .container__aviso {
-    font-size: 12px;
+    font-size: 20px;
     color: var(--cinza-secundario);
 }
 
@@ -85,6 +89,7 @@ body {
 
 .descricao__texto {
     color: var(--cinza-secundario);
+    font-size: 30px;
 }
 
 .secundario__botao {
